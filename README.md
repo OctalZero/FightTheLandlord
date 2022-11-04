@@ -7,3 +7,6 @@
  1. 开发框架：Felgo（配置为 Qt 5.15）
  2. 编译工具：qmake
  3. 编译器：Qt for Android（Android Clang）
+
+ # 整体架构简要图
+ ![整体架构]()
